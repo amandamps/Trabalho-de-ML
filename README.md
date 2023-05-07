@@ -2,8 +2,7 @@
 
 ### Amanda Marcelle
 
-
-|Classificação de Imagens | YOLOv5 | PyTorch |
+Classificação de Imagens | YOLOv5 | PyTorch |
 
 ## Performance
 
