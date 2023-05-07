@@ -569,8 +569,18 @@ wandb:                x/lr2 0.0003
 
 ### Evidências do treinamento
 
-Exemplo de adição de imagem:
-![Metrics](https://api.wandb.ai/files/amps/YOLOv5/b2fqd4dt/media/images/Results_100_2c306c94cdf369221a37.png?height=276)
+![results](https://user-images.githubusercontent.com/131727650/236705404-5b45ed9d-8351-4c9e-9629-3aa8d4855217.png)
+  
+![confusion_matrix](https://user-images.githubusercontent.com/131727650/236705368-e0d4b95d-8d92-4f3a-a6df-ae968ed79096.png)
+  
+![R_curve](https://user-images.githubusercontent.com/131727650/236705393-4378758a-9faf-4010-8ec6-fa7a5a597593.png)
+  
+![F1_curve](https://user-images.githubusercontent.com/131727650/236705396-899023bb-8ede-4cd7-ab86-aaa805a951d3.png)
+  
+![PR_curve](https://user-images.githubusercontent.com/131727650/236705400-bf0a0059-4758-4adc-98b0-3dd9455f7563.png)
+  
+![P_curve](https://user-images.githubusercontent.com/131727650/236705402-e79849ca-5367-444c-b8f6-906a66d1e883.png)
+
 
 ## Roboflow
 
