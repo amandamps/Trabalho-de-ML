@@ -587,4 +587,4 @@ Link para acesso do Dataset Roboflow: [Dataset Roboflow](https://universe.robofl
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+Link para acesso do HuggingFace: [HuggingFace](https://huggingface.co/amandamps/image_classification)
