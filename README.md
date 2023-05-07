@@ -569,16 +569,12 @@ wandb:                x/lr2 0.0003
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
 Exemplo de adição de imagem:
-![Metrics](https://wandb.ai/amps/YOLOv5/runs/b2fqd4dt?workspace=user-amps)
+![Metrics](https://api.wandb.ai/files/amps/YOLOv5/b2fqd4dt/media/images/Results_100_2c306c94cdf369221a37.png?height=276)
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [Dataset Roboflow](https://universe.roboflow.com/classificao-de-imagens/classificacao-de-papeleiras/dataset/2)
+Link para acesso do Dataset Roboflow: [Dataset Roboflow](https://universe.roboflow.com/classificao-de-imagens/classificacao-de-papeleiras/dataset/2)
 
 ## HuggingFace
 
